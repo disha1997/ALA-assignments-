@@ -1,2 +1,4 @@
 # Applied-Linear-Algebra-Lab
-As part of the Applied Linear Algebra Lab @ Manipal School of Information Sciences [Masters in Artificial Intelligence], I have completed and uploaded all the assignments.
+Applied Linear Algebra - practice problems and codes, classwork & assignments
+
+I have uploaded all of my work for the Applied Linear Algebra course at Manipal School of Information Sciences, MAHE [Masters in Artificial Intelligence & Machine Learning].
